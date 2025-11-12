@@ -4,5 +4,6 @@ body{
 }
 
 .layout {
-    
+    display: flexbox;
+    margin-left: 0%;
 }
