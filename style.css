@@ -5,15 +5,18 @@ body{
 
 .layout {
     display: flexbox;
-    margin-left: 0%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 .layout2 {
     display: flexbox;
-    margin-left: 0%;
+    margin-left: 30%;
+     margin-right: 30%;
 }
 
 .layout3 {
     display: flexbox;
-    margin-left: 0%;
+    margin-left: 30%;
+     margin-right: 30%;
 }
